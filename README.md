@@ -1,2 +1,0 @@
-# masterPay
-Created with CodeSandbox
