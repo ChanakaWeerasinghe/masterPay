@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "mastercard-billpayapi": "1.0.0",
-    "node-forge": "0.6.49"
+    "node-forge": "0.10.0"
   },
   "devDependencies": {
     "@babel/core": "7.2.0",
